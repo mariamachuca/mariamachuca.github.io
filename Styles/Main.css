@@ -21,8 +21,10 @@ img{
 }
 
 li {
-	display:inling;
-	margin-right: 10px;
+	display:inline;
+margin-right: 10px;}
+li.coming-soon {
+display:none;
 }
 a:link {
 	text-decoration: none;
